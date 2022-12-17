@@ -72,4 +72,7 @@ export default {
       }
     }
   },
+  partials: {
+    emailWarning: "Emails are required, so do it!"
+  }
 }
